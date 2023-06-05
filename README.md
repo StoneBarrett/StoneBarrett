@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StoneBarrett, otherwise known as Ophion.
+- 👋 Hi, I’m @StoneBarrett
 - 👀 I’m interested in ... artificial intelligence, machine learning, automation, gaming.
 - 🌱 I’m currently learning ... Computer Science Engineering.
 - 💞️ I’m looking to collaborate on ... nothing just yet. More learning to do!
